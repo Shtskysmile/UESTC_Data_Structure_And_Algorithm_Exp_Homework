@@ -1,2 +1,3 @@
-# UESTC_Data_Structure_And_Algorithm_Exp_Homework
-电子科技大学数据结构与算法综合大实验代码
+# **项目介绍：**
+
+本代码包含了数据结构与算法的作业，Calculator对应了四则计算器，HPint对应了大整数运算，MyPacker对应了压缩与自解压。
